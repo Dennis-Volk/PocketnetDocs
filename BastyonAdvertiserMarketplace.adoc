@@ -78,4 +78,4 @@ BIP 112 - CHECKSEQUENCEVERIFY - https://github.com/bitcoin/bips/blob/master/bip-
 ## Test Plan
 Develop unit test to verify each step in workflow above between to parties.
 Unit test to verify advertised content appears as expected in target feed.
-
+APIs needed 1. Blogger calls for all ads available to him/her, these must be ads that are available AND coins behind them have not been spent.                        2.Bloggers by categories and tags (% of posts using a tag, # of posts using a tag)
